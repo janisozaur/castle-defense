@@ -6,7 +6,7 @@ Castle Defense is an action-packed math game. It was written from scratch for th
 
 To play, type the answers to activate your archers. Kill the skeletons before they reach safety. Use the number keys on your keyboard and the brain in your head. Good luck.
 
-To contact the author, send an email to Bryant at chesswhiz@gmail.com
+To contact the author, send an email to Bryant at chesswhiz at gmail dawt com
 
 --------------------
 Building and Running
